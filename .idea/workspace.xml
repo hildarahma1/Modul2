@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="320fa16c-99e3-498b-b409-ecfbb0922a66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1inwUchgtpDAsqy9jcCOKXHU9Q8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DemoVMI">
+    <configuration name="DemoInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hilda.Modul2.Inheritance.DemoInheritance" />
+      <module name="Modul2-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hilda.Modul2.Inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hilda.Modul2.Polimorfisme.DemoOverloading" />
+      <module name="Modul2-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hilda.Modul2.Polimorfisme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hilda.Modul2.Polimorfisme.DemoOverriding" />
+      <module name="Modul2-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hilda.Modul2.Polimorfisme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoVMI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hilda.Modul2.Polimorfisme.DemoVMI" />
+      <module name="Modul2-B" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hilda.Modul2.Polimorfisme.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoVMI" />
+        <item itemvalue="Application.DemoOverriding" />
+        <item itemvalue="Application.DemoOverloading" />
+        <item itemvalue="Application.DemoInheritance" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="320fa16c-99e3-498b-b409-ecfbb0922a66" name="Default Changelist" comment="" />
+      <created>1602556680977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602556680977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="677" height="221" key="GridCell.Tab.0.bottom" timestamp="1603044142223">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1603044142223" />
+    <state width="677" height="221" key="GridCell.Tab.0.center" timestamp="1603044142222">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1603044142222" />
+    <state width="677" height="221" key="GridCell.Tab.0.left" timestamp="1603044142222">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1603044142222" />
+    <state width="677" height="221" key="GridCell.Tab.0.right" timestamp="1603044142222">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="677" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1603044142222" />
+    <state x="64" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1603111869603">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="64" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1603111869603" />
+    <state x="209" y="53" key="new project wizard" timestamp="1603112308553">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1603112308553" />
+  </component>
+</project>
